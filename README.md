@@ -14,3 +14,5 @@ This project leverages **Power BI** to analyze and visualize key supply chain me
 
 The goal of this analysis is to uncover patterns and trends in the supply chain, optimize processes, and enable data-driven decision-making for enhanced efficiency.
 
+![Supply Chain Dashboard](https://github.com/Rp363/Supply-chain-analysis/blob/94b96a46223c196651059765ff8b24d92ab65ee8/Visualizations/Overview.png?raw=true)
+
